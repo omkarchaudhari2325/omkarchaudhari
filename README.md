@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React , Tailwind , Node JS , Data structures and algorithms**
 
-- 👨‍💻 Leetcode Profile [https://leetcode.com/chaudhariomkar369](https://leetcode.com/chaudhariomkar369)
+- 👨‍💻 Leetcode Profile [https://leetcode.com/omkar_c20](https://leetcode.com/omkar_c20)
 
 - CodeChef Profile [https://www.codechef.com/users/omkar993](https://www.codechef.com/users/omkar993)
 
