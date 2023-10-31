@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Software Developer  Omkar Chaudhari</h1>
-<h3 align="center">Dedicated and performance-driven Web Developer with proactive approach. About 1.5 years of experience in Web Development. Having good hands on data structures and algorithms , Proficient in REACT and NODE. Competed on various platforms using C++ as primary language.</h3>
+<h3 align="center">Dedicated and performance-driven Web Developer with proactive approach. About 2 years of experience in Web Development. Having good hands on data structures and algorithms , Proficient in REACT and NODE. Competed on various platforms using C++ as primary language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarchaudhari2325&label=Profile%20views&color=0e75b6&style=flat" alt="omkarchaudhari2325" /> </p>
 
